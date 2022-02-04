@@ -1,3 +1,5 @@
+//member repository
+
 package LSH.hellospring.repository;
 
 import LSH.hellospring.domain.Member;
