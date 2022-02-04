@@ -1,5 +1,7 @@
-package LSH.hellospring.repository;
+// jpa 사용전 코드
 
+
+package LSH.hellospring.repository;
 import LSH.hellospring.domain.Member;
 import org.springframework.stereotype.Repository;
 
