@@ -1,3 +1,5 @@
+// 등록 & 조회
+
 package LSH.hellospring.controller;
 
 import LSH.hellospring.domain.Member;
