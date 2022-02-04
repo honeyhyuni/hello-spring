@@ -1,4 +1,5 @@
 package LSH.hellospring;
+// bean
 
 import LSH.hellospring.repository.JpaMemberRepository;
 import LSH.hellospring.repository.MemberRepository;
