@@ -1,3 +1,5 @@
+//business logic
+
 package LSH.hellospring.service;
 
 import LSH.hellospring.domain.Member;
