@@ -1,3 +1,5 @@
+// 스프링 데이터 jpa
+
 package LSH.hellospring.repository;
 
 import LSH.hellospring.domain.Member;
